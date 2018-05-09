@@ -1,7 +1,7 @@
 # Header
 menu:
-  Home: www.baidu.com
-  相册: /archives
+  Home: /
+  Archives: /archives
 rss: /atom.xml
 
 # Content
